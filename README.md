@@ -1,1 +1,1 @@
-# python24
+# python-24
